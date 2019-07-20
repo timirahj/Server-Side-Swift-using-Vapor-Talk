@@ -1,2 +1,2 @@
-# Server-Side-Swift-using-Vapor-Talk
-Presentation slides and demo for my "Let's Go Serverless, using Vapor" talk.
+# Let's Go Serverless with Swift, using Vapor (Presentation Slides + Demo)
+Presentation slides and demo for 2019 talk given by Developer Evangelist, Timirah James. Twitter: @TimirahJ
