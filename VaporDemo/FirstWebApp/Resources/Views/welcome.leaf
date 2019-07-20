@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <h1>Welcome To CloudyPic!</h1>
+    </head>
+    
+    <body>
+
+    <img src="https://res.cloudinary.com/demo/image/upload/w_900,h_600/l_logo,w_200,h_200,c_thumb,g_south_east/l_heart-eyes-emoji,g_west,x_50,w_200,h_200/l_text:Arial_60_bold_yellow:Puppy%20Love!,g_north_east,co_orange/e_tint:50:blue/dog2.jpg">
+        
+       <!-- add button -->
+    <button type="button" onclick="alert('I like to move it, move it!')">Click me!</button>
+    
+    </body>
+</html>
